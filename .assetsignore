@@ -1,0 +1,25 @@
+# Files in the project folder that are not part of the website
+# (the format is the same as .gitignore).
+
+# deployment and editor settings
+wrangler.jsonc
+.assetsignore
+.wrangler/
+.claude/
+.vscode/
+.gitignore
+node_modules/
+
+# developer notes and tools
+CLAUDE.md
+Start Floor Plan 2027.bat
+tools/
+
+# the tutorial videos are not used by the app, and one is larger than
+# Cloudflare's 25 MiB file limit (host them on YouTube or R2 instead)
+tutorial-videos/
+
+# system files
+Thumbs.db
+desktop.ini
+.DS_Store

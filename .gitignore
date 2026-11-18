@@ -1,0 +1,11 @@
+# editor / assistant settings (not part of the app)
+.claude/
+.vscode/
+# system files
+Thumbs.db
+desktop.ini
+.DS_Store
+# Cloudflare's local cache (made by wrangler)
+.wrangler/
+# tutorial videos (95 MB, not used by the app)
+tutorial-videos/
