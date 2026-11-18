@@ -1,0 +1,50 @@
+# Floor Plan 2027 — Part 2: Beyond the Basics — narration script
+
+Each line appears on screen as a caption at the time shown. Read it aloud at that point to record a voiceover.
+
+- **00:06** — In this part we work on the sample Two-storey family house (Demo → Keep this house).
+- **00:10** — Every floor has its own tab. The plan shows and edits one floor at a time.
+- **00:15** — This is the Upper floor. The walls of the other floors show as dashed lines, so storeys line up.
+- **00:22** — Other floors in the toolbar turns those dashed outlines off and on.
+- **00:25** — The dashed +1.5 and +2.5 tabs add a split level halfway between floors.
+- **00:29** — With nothing selected, Plan settings add a whole new Upper floor or Basement, and set wall heights.
+- **00:33** — The Height bar sets the working height: new walls, stairs, balconies and roofs are placed at that height.
+- **00:39** — Zoom in with the mouse wheel to work in detail.
+- **00:42** — Select an object — here the living-room sofa.
+- **00:46** — Position X / Y / Z and Size take exact values, in metres. Z lifts an object off the floor.
+- **00:50** — The arrow keys nudge the selection by 1 cm; with Shift, by 10 cm. Watch X change.
+- **00:56** — H flips an object; the orientation buttons turn it to any multiple of 45°.
+- **01:01** — Dimensions shows the measurements of walls and rooms on the plan.
+- **01:07** — The Dimension icons add your own measuring lines, with or without a label.
+- **01:11** — Snap keeps things on the grid (hold Alt while dragging to place freely). The grid size is in Plan settings.
+- **01:15** — Align fits doors and windows into walls and joins wall ends together.
+- **01:19** — To select several objects, hold Shift and drag a box — here around the kitchen units.
+- **01:25** — Shift+click adds or removes single objects. Ctrl+A selects everything on this floor.
+- **01:28** — Now Properties lists the selection and can align, distribute, rotate or group it.
+- **01:32** — Ctrl+C and Ctrl+V copy and paste. Pasted on another floor, objects keep their exact position.
+- **01:39** — The Objects tab lists everything in the plan. Search it, and click an entry to select that object.
+- **01:45** — Each row also has buttons to hide that object in 3D, lock it in place, or delete it.
+- **01:51** — Prefabs are ready-made rooms and groups: garages, kitchens, bathrooms, bedrooms, balconies…
+- **01:55** — Tick With walls, doors & windows to get the room's shell too — or untick it to place just the furniture.
+- **02:00** — Drag one onto the plan — here a Home office.
+- **02:05** — A prefab is placed as a group: one click selects it all to move or turn. Alt+click picks a single piece.
+- **02:14** — Select a wall to change it: thickness, height, and wall material.
+- **02:19** — Paint the whole wall, or just its outside or inside face…
+- **02:22** — …then pick a material: plaster, brick, stone, wood, concrete, tiles, siding…
+- **02:29** — Materials show as hatching on the plan, and as real textures in 3D.
+- **02:35** — Tidy up fixes small gaps for you: Fit doors & windows on this floor, or Adjust whole house — every floor, from the ground up.
+- **02:40** — Fill garden (G) lays lawn, gravel or paving: click inside a fenced area, or drag a rectangle.
+- **02:48** — Its material is chosen in Properties, just like a floor.
+- **02:51** — Open the 3D view again. A few more tools live up here.
+- **02:56** — This floor shows the floor you are designing; Whole house shows every storey at its real height.
+- **03:02** — Exploded pulls the floors apart, so you can look into every level at once.
+- **03:10** — Click an object in 3D to select it — here the roof — then Hide selected or make it See-through.
+- **03:20** — Show all brings everything back. Paint faces paints single wall faces with a material.
+- **03:26** — The ground menu sets the surroundings: lawn, trees, a street, paving or gravel.
+- **03:38** — The Settings button (bottom left) switches between light and dark, and between metric and imperial units.
+- **03:44** — Imperial shows feet and inches. You can type lengths like 10' 6".
+- **03:48** — It also sets whether new stairs start or end at the height in the Height bar.
+- **03:54** — The File menu holds more than Save and Open.
+- **03:56** — 3D simulator saves a stand-alone web page of the house: anyone can orbit it or walk through the rooms.
+- **04:00** — Export for AI writes the whole house — rooms, walls, materials, every measurement — with a ready-made prompt for AI image tools.
+- **04:05** — And the Wizard is never final: after building, ✎ Change answers takes you back to adjust and rebuild.

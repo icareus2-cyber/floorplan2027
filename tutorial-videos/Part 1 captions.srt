@@ -1,0 +1,248 @@
+1
+00:00:06,900 --> 00:00:12,600
+Floor Plan 2027 is a home-design program that runs in your web browser. Nothing to install.
+
+2
+00:00:12,700 --> 00:00:21,017
+You draw a house as a 2D floor plan: walls, doors, windows, stairs, furniture, roof and garden.
+
+3
+00:00:21,150 --> 00:00:24,350
+Then you look at it in 3D, from any angle, with the click of a button.
+
+4
+00:00:28,750 --> 00:00:35,650
+Every object has real measurements, so the plan and the 3D model always match.
+
+5
+00:00:35,783 --> 00:00:39,983
+Your plan is saved in the browser as you work, and can be saved to a file or exported as a picture.
+
+6
+00:00:40,133 --> 00:00:43,133
+Let's take a tour of the screen. This is a new, empty plan.
+
+7
+00:00:43,233 --> 00:00:49,533
+The top bar: the plan's name, the floor tabs, and the Wizard, Demo and File buttons.
+
+8
+00:00:49,633 --> 00:00:55,933
+On the left, the icon library: 151 icons in categories — walls, doors, windows, stairs, furniture, garden…
+
+9
+00:00:56,033 --> 00:01:02,633
+Type in the search box to find an icon quickly. Right-click any icon for a 3D preview of it.
+
+10
+00:01:02,733 --> 00:01:10,233
+Above the plan, the toolbar: undo and redo, zoom, display options, helpers like Snap and Align, and the 3D view button.
+
+11
+00:01:10,333 --> 00:01:14,533
+In the middle, the drawing area, on a grid. Scroll to zoom; drag an empty spot to move around.
+
+12
+00:01:14,633 --> 00:01:21,833
+On the right, Properties: the settings of whatever you have selected — or of the whole plan when nothing is.
+
+13
+00:01:21,933 --> 00:01:27,933
+The thin Height bar shows the floor you are working on and its height above the ground.
+
+14
+00:01:28,033 --> 00:01:34,033
+And along the bottom, the status bar: the pointer position, what is selected, and handy tips.
+
+15
+00:01:34,133 --> 00:01:38,633
+There are three ways to start: watch a demo, let the Wizard design a house, or draw your own.
+
+16
+00:01:38,767 --> 00:01:43,517
+The quickest way to learn: watch a house being built. Click Demo.
+
+17
+00:01:43,617 --> 00:01:49,067
+Pick a sample house. Let's choose the Garden cottage.
+
+18
+00:01:49,167 --> 00:01:54,767
+The house is built in the order a real house is: first the outer walls…
+
+19
+00:01:54,867 --> 00:02:02,967
+Click Next for each step. The objects a step adds stay selected, so you can see what was built.
+
+20
+00:02:03,067 --> 00:02:06,667
+Each step is explained in the panel at the bottom. Previous goes back a step.
+
+21
+00:02:06,767 --> 00:02:09,917
+Click Play to let it build the rest by itself.
+
+22
+00:02:33,017 --> 00:02:41,417
+Finished! Keep this house makes it your own plan to change. Exit demo brings your own plan back.
+
+23
+00:02:41,567 --> 00:02:46,067
+Want a house of your own design, fast? Click Wizard.
+
+24
+00:02:46,167 --> 00:02:53,217
+The House Building Wizard asks a few questions. Start with a name and the surroundings.
+
+25
+00:02:53,317 --> 00:02:58,517
+The picture on the right updates as you answer: a front view and the floor layouts.
+
+26
+00:02:58,617 --> 00:03:02,367
+Size: how big the house is on the ground.
+
+27
+00:03:02,467 --> 00:03:06,417
+Storeys: one, two or three floors, and how high each one is.
+
+28
+00:03:06,517 --> 00:03:12,917
+Rooms: how many bedrooms and bathrooms. Let's ask for 4 bedrooms.
+
+29
+00:03:13,017 --> 00:03:21,267
+Then wall colours, the roof, floor finishes and extras. Every answer can be changed later.
+
+30
+00:03:21,367 --> 00:03:25,917
+The last step sums it all up. Click Build the house.
+
+31
+00:03:26,017 --> 00:03:30,117
+It is built step by step, just like the demo. Let's play it through.
+
+32
+00:03:57,217 --> 00:04:02,967
+To change your answers, click ✎ Change answers. Happy with it? Click Keep this house.
+
+33
+00:04:03,067 --> 00:04:06,467
+The house is now your plan — every wall and piece of furniture can be edited.
+
+34
+00:04:06,600 --> 00:04:12,000
+Now let's draw a plan ourselves. Open the File menu and choose New plan…
+
+35
+00:04:13,100 --> 00:04:18,600
+Set the number of floors and their heights here — the defaults are fine. Click Create plan.
+
+36
+00:04:18,700 --> 00:04:25,750
+To add something, drag its icon onto the plan. Let's start with a Room: four walls in one go.
+
+37
+00:04:25,850 --> 00:04:29,450
+It is selected: blue handles appear around it, and its Properties show on the right.
+
+38
+00:04:29,550 --> 00:04:33,400
+Type exact sizes in Properties. Length 5 m…
+
+39
+00:04:33,500 --> 00:04:36,150
+…and width 4 m.
+
+40
+00:04:36,250 --> 00:04:39,450
+You can also drag the handles to resize, and drag the room itself to move it.
+
+41
+00:04:39,550 --> 00:04:43,850
+Next, a door. Type door in the search box…
+
+42
+00:04:43,950 --> 00:04:53,000
+…and drag the door onto a wall. Align fits it into the wall automatically.
+
+43
+00:04:54,100 --> 00:04:56,500
+A window goes into the wall the same way.
+
+44
+00:04:56,600 --> 00:05:04,250
+Now some furniture: a double bed…
+
+45
+00:05:04,350 --> 00:05:08,150
+…and a sofa.
+
+46
+00:05:08,250 --> 00:05:12,600
+Drag an object to move it. Snap keeps it on the grid.
+
+47
+00:05:12,700 --> 00:05:16,100
+Press R to rotate the selected object by 90°.
+
+48
+00:05:16,200 --> 00:05:19,200
+Ctrl + D duplicates it…
+
+49
+00:05:19,300 --> 00:05:22,100
+…Delete removes it…
+
+50
+00:05:22,200 --> 00:05:27,500
+…and Ctrl + Z undoes anything. Let's undo the rotation too.
+
+51
+00:05:27,600 --> 00:05:33,900
+Last, a floor. Click Fill floor, then click inside the room.
+
+52
+00:05:33,000 --> 00:05:39,000
+The floor fills the room exactly. Choose its material on the right — wood, tiles, carpet, stone…
+
+53
+00:05:40,133 --> 00:05:43,833
+Ready to see it? Click 3D view.
+
+54
+00:05:43,967 --> 00:05:46,967
+Drag to turn around the house. Scroll to zoom in and out.
+
+55
+00:05:51,967 --> 00:05:59,567
+Cut walls lowers the walls so you can look into the rooms.
+
+56
+00:05:59,700 --> 00:06:10,633
+Top looks straight down; Eye level stands you inside, 2 m above the floor.
+
+57
+00:06:10,767 --> 00:06:16,567
+Any change you make on the plan shows up in 3D. Close 3D (or Esc) goes back.
+
+58
+00:06:16,733 --> 00:06:22,183
+Give your plan a name: click the name at the top left and type.
+
+59
+00:06:22,283 --> 00:06:26,283
+Your plan is saved in this browser automatically as you work — close the tab and it is still there next time.
+
+60
+00:06:26,383 --> 00:06:31,283
+To keep a copy, share it, or move it to another computer, use the File menu.
+
+61
+00:06:31,383 --> 00:06:35,783
+Save (Ctrl + S) downloads the plan as a .json file; Open… loads it again.
+
+62
+00:06:35,883 --> 00:06:39,883
+Export SVG or Export PNG saves a picture of the drawing to print or send.
+

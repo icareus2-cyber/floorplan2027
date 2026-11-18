@@ -1,0 +1,149 @@
+# Floor Plan 2027 — Part 1: Getting Started — narration script
+
+The narration of the video, with the time each sentence is spoken.
+
+- **00:20** — Floor Plan 2027 is a home design program that runs in your web browser.
+- **00:25** — There is nothing to install: you open the page and start drawing.
+- **00:29** — What you see here is a finished plan of a two-storey family house, seen from above, like an architect's drawing.
+- **00:36** — Every wall, door, window, piece of furniture and garden object is a separate item that you can select, move and change.
+- **00:44** — With one click on the 3D view button, the same plan becomes a three-dimensional model.
+- **00:49** — Here we see the whole house: both floors, the roof, the garden, and even the car in the drive.
+- **00:55** — You can turn the model with the mouse, to look at it from any side.
+- **00:59** — Every object has real measurements in metres, so the 2D plan and the 3D model always match exactly.
+- **01:10** — As you work, the plan is saved automatically in your browser.
+- **01:14** — You can also save it to a file, or export a picture to print or share.
+- **01:19** — Let's take a tour of the screen, one area at a time.
+- **01:22** — This is a new, empty plan.
+- **01:24** — At the very top is the top bar.
+- **01:26** — On the left is the name of your plan: click it to rename the plan.
+- **01:30** — In the middle are the floor tabs, one for each storey.
+- **01:33** — On the right are three buttons: Wizard, Demo and File.
+- **01:37** — Down the left side is the icon library.
+- **01:40** — It holds a hundred and fifty-one icons, sorted into categories: walls and structure, roofs, windows, doors, stairs, furniture, garden and more.
+- **01:49** — The list at the top shows one category at a time, or all of them.
+- **01:53** — Below it is the search box.
+- **01:55** — Type a word, such as door or sofa, and only the matching icons are shown.
+- **02:00** — Tip: right-click any icon to see a small 3D preview of it.
+- **02:04** — Above the drawing is the toolbar.
+- **02:06** — On the left are undo and redo, then the zoom buttons and Fit view, which shows the whole plan.
+- **02:12** — Next come the Show options: Grid, Other floors and Dimensions; and the Assist options: Snap and Align.
+- **02:19** — Further right are Tidy up, Fill floor and Fill garden, the rotate, duplicate and delete buttons, and the 3D view button.
+- **02:27** — The large area in the middle is the drawing area, laid out on a grid.
+- **02:31** — Scroll the mouse wheel to zoom in and out, and drag an empty spot to move the view around.
+- **02:36** — On the right is the Properties panel.
+- **02:39** — When something is selected, it shows that object's settings: position, size, rotation, colours and materials.
+- **02:46** — When nothing is selected, it shows the settings for the whole plan.
+- **02:50** — The narrow strip between the library and the drawing is the Height bar.
+- **02:54** — It shows the floor you are working on, and the height above the ground at which new objects are placed.
+- **03:00** — Along the bottom is the status bar.
+- **03:03** — It shows where the pointer is, in metres, what is selected, and short tips for using the mouse.
+- **03:08** — Now that you know your way around, there are three ways to start: watch a demo, let the Wizard design a house for you, or draw your own plan from scratch.
+- **03:17** — Let's try each one.
+- **03:19** — The quickest way to learn is to watch a house being built.
+- **03:23** — Click the Demo button in the top bar.
+- **03:25** — A window opens with three sample houses: a two-storey family house, a garden cottage, and an L-shaped house.
+- **03:32** — Each card shows a picture of the finished house, its size, and how many construction steps it has.
+- **03:38** — Let's pick the Garden cottage.
+- **03:41** — The demo starts.
+- **03:42** — Your own plan is put safely aside, and a panel appears at the bottom of the screen.
+- **03:48** — The panel tells you which step you are on and explains it.
+- **03:51** — Step one sets out the outline and builds the outer walls, twenty centimetres thick and closed at every corner.
+- **03:57** — The objects that were just added stay selected, outlined in blue, so you can see exactly what was built.
+- **04:04** — Click Next to build the next step.
+- **04:06** — Step two lays the floor slab: the concrete base that fills the inside of the outer walls.
+- **04:12** — Next again.
+- **04:13** — Step three adds the inner walls, which divide the cottage into rooms.
+- **04:19** — And step four puts in the doors.
+- **04:21** — Notice the numbered dots: they show every step, and you can click any dot to jump straight to it.
+- **04:27** — The Previous button goes back one step.
+- **04:30** — Instead of clicking Next each time, click Play, and the demo builds the remaining steps by itself.
+- **04:36** — Watch as the windows, floors, roof, furniture and garden appear, in the order a real house would be built.
+- **04:58** — The cottage is finished.
+- **05:00** — Now you have two choices.
+- **05:02** — Keep this house makes the cottage your own plan, so you can change anything in it.
+- **05:06** — Exit demo closes the demo, and brings back the plan you had before.
+- **05:11** — We'll exit.
+- **05:14** — Next, the House Building Wizard.
+- **05:16** — Click Wizard in the top bar.
+- **05:18** — The Wizard asks you a few simple questions, then designs and builds a complete house from your answers.
+- **05:24** — The questions are listed down the left, and the picture on the right updates as you answer, showing a front view and the layout of each floor.
+- **05:32** — First, give the house a name.
+- **05:34** — Then choose what surrounds it.
+- **05:36** — We'll pick Lawn with trees.
+- **05:39** — The next question is the size: how wide and how deep the house is on the ground, measured on the outside.
+- **05:46** — Drag the sliders, or pick one of the quick sizes.
+- **05:50** — Then the storeys: one, two or three floors, and how high each storey is, from floor to floor.
+- **05:57** — Now the rooms.
+- **05:58** — Choose the number of bedrooms and bathrooms.
+- **06:01** — Let's ask for four bedrooms.
+- **06:03** — Watch the floor layouts on the right change to make room for the extra bedroom.
+- **06:09** — The next questions let you choose the wall material and colour, the roof style and its covering, the floor finish for each kind of room, and extras such as furniture, a balcony, trees and a parking place.
+- **06:21** — The last page sums up all your answers.
+- **06:24** — To change one, click it to jump back.
+- **06:26** — When you're happy, click Build the house.
+- **06:30** — The house is built on the plan step by step, just like the demo.
+- **06:34** — Let's press Play and watch.
+- **06:36** — First the outer walls and the ground slab.
+- **06:39** — Then the inner walls, the doors and the windows.
+- **06:42** — Then the upper floor with its stairwell, the stairs, the roof, and finally the furniture and garden.
+- **07:04** — Change answers takes you back into the Wizard to adjust anything and build again.
+- **07:09** — We're happy with this one, so click Keep this house.
+- **07:14** — The house is now your own plan.
+- **07:16** — Every wall and every piece of furniture can be moved, resized or deleted.
+- **07:21** — Now let's draw a plan ourselves.
+- **07:23** — Open the File menu,
+- **07:25** — and choose New plan.
+- **07:26** — This window sets up the floors before you start: which floors the house has, how high each one is above the ground, the clear height of the rooms, and the thickness of the floor slabs.
+- **07:37** — The defaults are fine for us, so click Create plan.
+- **07:42** — To add anything to the plan, you drag its icon from the library onto the drawing.
+- **07:47** — We'll start with the Room icon, which gives you four walls in one go.
+- **07:54** — The room is now selected.
+- **07:56** — You can tell by the blue handles around it, and Properties on the right now shows the room's settings.
+- **08:02** — To set an exact size, type it in Properties.
+- **08:05** — Click the length box, and type five, for five metres.
+- **08:08** — Then the width: four metres.
+- **08:10** — You can also resize the room by dragging its blue handles, or move it by dragging the room itself.
+- **08:16** — Next, a door.
+- **08:18** — Click the search box and type door.
+- **08:20** — The library now shows only doors: plain, double, sliding, folding and more.
+- **08:25** — Drag the first door onto the bottom wall of the room.
+- **08:28** — Because Align is switched on, the door fits itself into the wall automatically, and its curved line shows which way it opens.
+- **08:36** — Windows work the same way.
+- **08:38** — Search for window, and drag one onto the top wall.
+- **08:41** — It snaps into the wall too.
+- **08:43** — Now some furniture.
+- **08:45** — Search for bed, and drag a double bed into the room.
+- **08:48** — Then search for sofa, and drag in a sofa as well.
+- **08:52** — To move an object, simply drag it.
+- **08:55** — Snap keeps it lined up with the grid.
+- **08:57** — With the sofa still selected, press R to turn it ninety degrees.
+- **09:01** — Control D makes a copy of it.
+- **09:03** — The Delete key removes the copy again.
+- **09:06** — And Control Z undoes your last action.
+- **09:09** — You can press it again and again to step back through your changes.
+- **09:13** — Let's undo the delete, the copy and the turn.
+- **09:15** — Finally, a floor.
+- **09:17** — Click Fill floor in the toolbar, then click anywhere inside the room.
+- **09:21** — The floor fills the room exactly, right up to the walls.
+- **09:24** — In Properties you choose its material: wood planks, parquet, tiles, carpet, stone and more.
+- **09:30** — Let's pick parquet.
+- **09:34** — Ready to see the room in 3D?
+- **09:36** — Click the 3D view button.
+- **09:38** — The 3D view opens in place of the plan, with its own toolbar along the top.
+- **09:43** — Drag with the mouse to turn around the room,
+- **09:47** — and scroll the mouse wheel to zoom in or out.
+- **09:50** — Click Cut walls to lower the walls, so you can look into the room from outside.
+- **09:55** — Now the furniture and the parquet floor are easy to see.
+- **09:58** — Top looks straight down from above, like the plan.
+- **10:01** — Eye level puts you inside the room, two metres above the floor, as if you were standing there.
+- **10:07** — Perspective takes you back to the normal view.
+- **10:09** — Any change you make on the plan is shown in 3D as well.
+- **10:13** — To go back to the plan, click Close 3D, or press Escape.
+- **10:19** — Give your plan a name: click the name at the top left, and type.
+- **10:23** — You don't have to remember to save.
+- **10:25** — The plan is stored in your browser automatically as you work, so if you close the tab, it is still there the next time you open the page.
+- **10:33** — To keep a copy of your own, use the File menu.
+- **10:36** — Save, or Control S, downloads the plan as a dot JSON file.
+- **10:41** — Keep it as a backup, or send it to someone else.
+- **10:43** — Open loads a saved file back in.
+- **10:46** — Export SVG and Export PNG save a picture of the drawing, which you can print or email.

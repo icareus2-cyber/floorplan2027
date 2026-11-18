@@ -1,0 +1,580 @@
+1
+00:00:20,133 --> 00:00:25,873
+Floor Plan 2027 is a home design program that runs in your web browser.
+
+2
+00:00:25,873 --> 00:00:29,937
+There is nothing to install: you open the page and start drawing.
+
+3
+00:00:29,937 --> 00:00:36,733
+What you see here is a finished plan of a two-storey family house, seen from above, like an architect's drawing.
+
+4
+00:00:36,733 --> 00:00:44,475
+Every wall, door, window, piece of furniture and garden object is a separate item that you can select, move and change.
+
+5
+00:00:44,475 --> 00:00:49,802
+With one click on the 3D view button, the same plan becomes a three-dimensional model.
+
+6
+00:00:49,802 --> 00:00:55,492
+Here we see the whole house: both floors, the roof, the garden, and even the car in the drive.
+
+7
+00:00:55,492 --> 00:00:59,959
+You can turn the model with the mouse, to look at it from any side.
+
+8
+00:00:59,959 --> 00:01:10,522
+Every object has real measurements in metres, so the 2D plan and the 3D model always match exactly.
+
+9
+00:01:10,522 --> 00:01:14,145
+As you work, the plan is saved automatically in your browser.
+
+10
+00:01:14,145 --> 00:01:18,715
+You can also save it to a file, or export a picture to print or share.
+
+11
+00:01:19,000 --> 00:01:22,198
+Let's take a tour of the screen, one area at a time.
+
+12
+00:01:22,198 --> 00:01:24,330
+This is a new, empty plan.
+
+13
+00:01:24,330 --> 00:01:26,520
+At the very top is the top bar.
+
+14
+00:01:26,520 --> 00:01:30,441
+On the left is the name of your plan: click it to rename the plan.
+
+15
+00:01:30,441 --> 00:01:33,549
+In the middle are the floor tabs, one for each storey.
+
+16
+00:01:33,549 --> 00:01:37,325
+On the right are three buttons: Wizard, Demo and File.
+
+17
+00:01:37,325 --> 00:01:40,070
+Down the left side is the icon library.
+
+18
+00:01:40,070 --> 00:01:49,665
+It holds a hundred and fifty-one icons, sorted into categories: walls and structure, roofs, windows, doors, stairs, furniture, garden and more.
+
+19
+00:01:49,665 --> 00:01:53,802
+The list at the top shows one category at a time, or all of them.
+
+20
+00:01:53,802 --> 00:01:55,800
+Below it is the search box.
+
+21
+00:01:55,800 --> 00:02:00,741
+Type a word, such as door or sofa, and only the matching icons are shown.
+
+22
+00:02:00,741 --> 00:02:04,832
+Tip: right-click any icon to see a small 3D preview of it.
+
+23
+00:02:04,832 --> 00:02:06,987
+Above the drawing is the toolbar.
+
+24
+00:02:06,987 --> 00:02:12,705
+On the left are undo and redo, then the zoom buttons and Fit view, which shows the whole plan.
+
+25
+00:02:12,705 --> 00:02:19,383
+Next come the Show options: Grid, Other floors and Dimensions; and the Assist options: Snap and Align.
+
+26
+00:02:19,383 --> 00:02:27,143
+Further right are Tidy up, Fill floor and Fill garden, the rotate, duplicate and delete buttons, and the 3D view button.
+
+27
+00:02:27,143 --> 00:02:31,299
+The large area in the middle is the drawing area, laid out on a grid.
+
+28
+00:02:31,299 --> 00:02:36,975
+Scroll the mouse wheel to zoom in and out, and drag an empty spot to move the view around.
+
+29
+00:02:36,975 --> 00:02:39,287
+On the right is the Properties panel.
+
+30
+00:02:39,287 --> 00:02:46,604
+When something is selected, it shows that object's settings: position, size, rotation, colours and materials.
+
+31
+00:02:46,604 --> 00:02:50,731
+When nothing is selected, it shows the settings for the whole plan.
+
+32
+00:02:50,731 --> 00:02:54,705
+The narrow strip between the library and the drawing is the Height bar.
+
+33
+00:02:54,705 --> 00:03:00,694
+It shows the floor you are working on, and the height above the ground at which new objects are placed.
+
+34
+00:03:00,694 --> 00:03:03,108
+Along the bottom is the status bar.
+
+35
+00:03:03,108 --> 00:03:08,816
+It shows where the pointer is, in metres, what is selected, and short tips for using the mouse.
+
+36
+00:03:08,816 --> 00:03:17,780
+Now that you know your way around, there are three ways to start: watch a demo, let the Wizard design a house for you, or draw your own plan from scratch.
+
+37
+00:03:17,780 --> 00:03:19,457
+Let's try each one.
+
+38
+00:03:19,767 --> 00:03:23,119
+The quickest way to learn is to watch a house being built.
+
+39
+00:03:23,119 --> 00:03:25,514
+Click the Demo button in the top bar.
+
+40
+00:03:25,514 --> 00:03:32,886
+A window opens with three sample houses: a two-storey family house, a garden cottage, and an L-shaped house.
+
+41
+00:03:32,886 --> 00:03:38,986
+Each card shows a picture of the finished house, its size, and how many construction steps it has.
+
+42
+00:03:38,986 --> 00:03:41,336
+Let's pick the Garden cottage.
+
+43
+00:03:41,336 --> 00:03:42,752
+The demo starts.
+
+44
+00:03:42,752 --> 00:03:48,073
+Your own plan is put safely aside, and a panel appears at the bottom of the screen.
+
+45
+00:03:48,073 --> 00:03:51,123
+The panel tells you which step you are on and explains it.
+
+46
+00:03:51,123 --> 00:03:57,994
+Step one sets out the outline and builds the outer walls, twenty centimetres thick and closed at every corner.
+
+47
+00:03:57,994 --> 00:04:04,467
+The objects that were just added stay selected, outlined in blue, so you can see exactly what was built.
+
+48
+00:04:04,467 --> 00:04:06,467
+Click Next to build the next step.
+
+49
+00:04:06,467 --> 00:04:12,220
+Step two lays the floor slab: the concrete base that fills the inside of the outer walls.
+
+50
+00:04:12,220 --> 00:04:13,770
+Next again.
+
+51
+00:04:13,770 --> 00:04:19,869
+Step three adds the inner walls, which divide the cottage into rooms.
+
+52
+00:04:19,869 --> 00:04:21,858
+And step four puts in the doors.
+
+53
+00:04:21,858 --> 00:04:27,523
+Notice the numbered dots: they show every step, and you can click any dot to jump straight to it.
+
+54
+00:04:27,523 --> 00:04:30,056
+The Previous button goes back one step.
+
+55
+00:04:30,056 --> 00:04:36,055
+Instead of clicking Next each time, click Play, and the demo builds the remaining steps by itself.
+
+56
+00:04:36,055 --> 00:04:42,680
+Watch as the windows, floors, roof, furniture and garden appear, in the order a real house would be built.
+
+57
+00:04:58,680 --> 00:05:00,300
+The cottage is finished.
+
+58
+00:05:00,300 --> 00:05:02,237
+Now you have two choices.
+
+59
+00:05:02,237 --> 00:05:06,951
+Keep this house makes the cottage your own plan, so you can change anything in it.
+
+60
+00:05:06,951 --> 00:05:11,259
+Exit demo closes the demo, and brings back the plan you had before.
+
+61
+00:05:11,259 --> 00:05:14,180
+We'll exit.
+
+62
+00:05:14,200 --> 00:05:16,242
+Next, the House Building Wizard.
+
+63
+00:05:16,242 --> 00:05:18,243
+Click Wizard in the top bar.
+
+64
+00:05:18,243 --> 00:05:24,394
+The Wizard asks you a few simple questions, then designs and builds a complete house from your answers.
+
+65
+00:05:24,394 --> 00:05:32,531
+The questions are listed down the left, and the picture on the right updates as you answer, showing a front view and the layout of each floor.
+
+66
+00:05:32,531 --> 00:05:34,681
+First, give the house a name.
+
+67
+00:05:34,681 --> 00:05:36,507
+Then choose what surrounds it.
+
+68
+00:05:36,507 --> 00:05:39,704
+We'll pick Lawn with trees.
+
+69
+00:05:39,704 --> 00:05:46,167
+The next question is the size: how wide and how deep the house is on the ground, measured on the outside.
+
+70
+00:05:46,167 --> 00:05:50,547
+Drag the sliders, or pick one of the quick sizes.
+
+71
+00:05:50,547 --> 00:05:57,442
+Then the storeys: one, two or three floors, and how high each storey is, from floor to floor.
+
+72
+00:05:57,442 --> 00:05:58,742
+Now the rooms.
+
+73
+00:05:58,742 --> 00:06:01,324
+Choose the number of bedrooms and bathrooms.
+
+74
+00:06:01,324 --> 00:06:03,299
+Let's ask for four bedrooms.
+
+75
+00:06:03,299 --> 00:06:09,490
+Watch the floor layouts on the right change to make room for the extra bedroom.
+
+76
+00:06:09,490 --> 00:06:21,886
+The next questions let you choose the wall material and colour, the roof style and its covering, the floor finish for each kind of room, and extras such as furniture, a balcony, trees and a parking place.
+
+77
+00:06:21,886 --> 00:06:24,396
+The last page sums up all your answers.
+
+78
+00:06:24,396 --> 00:06:26,929
+To change one, click it to jump back.
+
+79
+00:06:26,929 --> 00:06:30,830
+When you're happy, click Build the house.
+
+80
+00:06:30,830 --> 00:06:34,749
+The house is built on the plan step by step, just like the demo.
+
+81
+00:06:34,749 --> 00:06:36,598
+Let's press Play and watch.
+
+82
+00:06:36,598 --> 00:06:39,229
+First the outer walls and the ground slab.
+
+83
+00:06:39,229 --> 00:06:42,073
+Then the inner walls, the doors and the windows.
+
+84
+00:06:42,073 --> 00:06:47,777
+Then the upper floor with its stairwell, the stairs, the roof, and finally the furniture and garden.
+
+85
+00:07:04,777 --> 00:07:09,635
+Change answers takes you back into the Wizard to adjust anything and build again.
+
+86
+00:07:09,635 --> 00:07:14,280
+We're happy with this one, so click Keep this house.
+
+87
+00:07:14,280 --> 00:07:16,214
+The house is now your own plan.
+
+88
+00:07:16,214 --> 00:07:21,170
+Every wall and every piece of furniture can be moved, resized or deleted.
+
+89
+00:07:21,433 --> 00:07:23,486
+Now let's draw a plan ourselves.
+
+90
+00:07:23,486 --> 00:07:25,095
+Open the File menu,
+
+91
+00:07:25,095 --> 00:07:26,605
+and choose New plan.
+
+92
+00:07:26,605 --> 00:07:37,500
+This window sets up the floors before you start: which floors the house has, how high each one is above the ground, the clear height of the rooms, and the thickness of the floor slabs.
+
+93
+00:07:37,500 --> 00:07:42,478
+The defaults are fine for us, so click Create plan.
+
+94
+00:07:42,478 --> 00:07:47,497
+To add anything to the plan, you drag its icon from the library onto the drawing.
+
+95
+00:07:47,497 --> 00:07:54,753
+We'll start with the Room icon, which gives you four walls in one go.
+
+96
+00:07:54,753 --> 00:07:56,619
+The room is now selected.
+
+97
+00:07:56,619 --> 00:08:02,428
+You can tell by the blue handles around it, and Properties on the right now shows the room's settings.
+
+98
+00:08:02,428 --> 00:08:05,441
+To set an exact size, type it in Properties.
+
+99
+00:08:05,441 --> 00:08:08,860
+Click the length box, and type five, for five metres.
+
+100
+00:08:08,860 --> 00:08:10,834
+Then the width: four metres.
+
+101
+00:08:10,834 --> 00:08:16,926
+You can also resize the room by dragging its blue handles, or move it by dragging the room itself.
+
+102
+00:08:16,926 --> 00:08:18,198
+Next, a door.
+
+103
+00:08:18,198 --> 00:08:20,487
+Click the search box and type door.
+
+104
+00:08:20,487 --> 00:08:25,692
+The library now shows only doors: plain, double, sliding, folding and more.
+
+105
+00:08:25,692 --> 00:08:28,865
+Drag the first door onto the bottom wall of the room.
+
+106
+00:08:28,865 --> 00:08:36,790
+Because Align is switched on, the door fits itself into the wall automatically, and its curved line shows which way it opens.
+
+107
+00:08:36,790 --> 00:08:38,649
+Windows work the same way.
+
+108
+00:08:38,649 --> 00:08:41,861
+Search for window, and drag one onto the top wall.
+
+109
+00:08:41,861 --> 00:08:43,845
+It snaps into the wall too.
+
+110
+00:08:43,845 --> 00:08:45,373
+Now some furniture.
+
+111
+00:08:45,373 --> 00:08:48,632
+Search for bed, and drag a double bed into the room.
+
+112
+00:08:48,632 --> 00:08:52,782
+Then search for sofa, and drag in a sofa as well.
+
+113
+00:08:52,782 --> 00:08:55,240
+To move an object, simply drag it.
+
+114
+00:08:55,240 --> 00:08:57,421
+Snap keeps it lined up with the grid.
+
+115
+00:08:57,421 --> 00:09:01,399
+With the sofa still selected, press R to turn it ninety degrees.
+
+116
+00:09:01,399 --> 00:09:03,542
+Control D makes a copy of it.
+
+117
+00:09:03,542 --> 00:09:06,277
+The Delete key removes the copy again.
+
+118
+00:09:06,277 --> 00:09:09,118
+And Control Z undoes your last action.
+
+119
+00:09:09,118 --> 00:09:13,058
+You can press it again and again to step back through your changes.
+
+120
+00:09:13,058 --> 00:09:15,875
+Let's undo the delete, the copy and the turn.
+
+121
+00:09:15,875 --> 00:09:17,431
+Finally, a floor.
+
+122
+00:09:17,431 --> 00:09:21,493
+Click Fill floor in the toolbar, then click anywhere inside the room.
+
+123
+00:09:21,493 --> 00:09:24,815
+The floor fills the room exactly, right up to the walls.
+
+124
+00:09:24,815 --> 00:09:30,569
+In Properties you choose its material: wood planks, parquet, tiles, carpet, stone and more.
+
+125
+00:09:30,569 --> 00:09:34,668
+Let's pick parquet.
+
+126
+00:09:34,700 --> 00:09:36,769
+Ready to see the room in 3D?
+
+127
+00:09:36,769 --> 00:09:38,629
+Click the 3D view button.
+
+128
+00:09:38,629 --> 00:09:43,761
+The 3D view opens in place of the plan, with its own toolbar along the top.
+
+129
+00:09:43,761 --> 00:09:47,761
+Drag with the mouse to turn around the room,
+
+130
+00:09:47,761 --> 00:09:50,475
+and scroll the mouse wheel to zoom in or out.
+
+131
+00:09:50,475 --> 00:09:55,175
+Click Cut walls to lower the walls, so you can look into the room from outside.
+
+132
+00:09:55,175 --> 00:09:58,741
+Now the furniture and the parquet floor are easy to see.
+
+133
+00:09:58,741 --> 00:10:01,672
+Top looks straight down from above, like the plan.
+
+134
+00:10:01,672 --> 00:10:07,003
+Eye level puts you inside the room, two metres above the floor, as if you were standing there.
+
+135
+00:10:07,003 --> 00:10:09,603
+Perspective takes you back to the normal view.
+
+136
+00:10:09,603 --> 00:10:13,277
+Any change you make on the plan is shown in 3D as well.
+
+137
+00:10:13,277 --> 00:10:19,452
+To go back to the plan, click Close 3D, or press Escape.
+
+138
+00:10:19,500 --> 00:10:23,187
+Give your plan a name: click the name at the top left, and type.
+
+139
+00:10:23,187 --> 00:10:25,247
+You don't have to remember to save.
+
+140
+00:10:25,247 --> 00:10:33,457
+The plan is stored in your browser automatically as you work, so if you close the tab, it is still there the next time you open the page.
+
+141
+00:10:33,457 --> 00:10:36,399
+To keep a copy of your own, use the File menu.
+
+142
+00:10:36,399 --> 00:10:41,029
+Save, or Control S, downloads the plan as a dot JSON file.
+
+143
+00:10:41,029 --> 00:10:43,948
+Keep it as a backup, or send it to someone else.
+
+144
+00:10:43,948 --> 00:10:46,525
+Open loads a saved file back in.
+
+145
+00:10:46,525 --> 00:10:53,687
+Export SVG and Export PNG save a picture of the drawing, which you can print or email.
+

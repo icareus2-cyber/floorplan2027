@@ -1,0 +1,184 @@
+1
+00:00:06,900 --> 00:00:10,300
+In this part we work on the sample Two-storey family house (Demo → Keep this house).
+
+2
+00:00:10,400 --> 00:00:15,650
+Every floor has its own tab. The plan shows and edits one floor at a time.
+
+3
+00:00:15,750 --> 00:00:22,500
+This is the Upper floor. The walls of the other floors show as dashed lines, so storeys line up.
+
+4
+00:00:22,600 --> 00:00:25,600
+Other floors in the toolbar turns those dashed outlines off and on.
+
+5
+00:00:25,700 --> 00:00:29,100
+The dashed +1.5 and +2.5 tabs add a split level halfway between floors.
+
+6
+00:00:29,200 --> 00:00:33,400
+With nothing selected, Plan settings add a whole new Upper floor or Basement, and set wall heights.
+
+7
+00:00:33,500 --> 00:00:39,100
+The Height bar sets the working height: new walls, stairs, balconies and roofs are placed at that height.
+
+8
+00:00:39,233 --> 00:00:42,683
+Zoom in with the mouse wheel to work in detail.
+
+9
+00:00:42,783 --> 00:00:46,383
+Select an object — here the living-room sofa.
+
+10
+00:00:46,483 --> 00:00:50,483
+Position X / Y / Z and Size take exact values, in metres. Z lifts an object off the floor.
+
+11
+00:00:50,583 --> 00:00:56,783
+The arrow keys nudge the selection by 1 cm; with Shift, by 10 cm. Watch X change.
+
+12
+00:00:56,883 --> 00:01:01,583
+H flips an object; the orientation buttons turn it to any multiple of 45°.
+
+13
+00:01:01,683 --> 00:01:06,983
+Dimensions shows the measurements of walls and rooms on the plan.
+
+14
+00:01:07,083 --> 00:01:11,233
+The Dimension icons add your own measuring lines, with or without a label.
+
+15
+00:01:11,333 --> 00:01:15,733
+Snap keeps things on the grid (hold Alt while dragging to place freely). The grid size is in Plan settings.
+
+16
+00:01:15,833 --> 00:01:18,833
+Align fits doors and windows into walls and joins wall ends together.
+
+17
+00:01:19,000 --> 00:01:24,900
+To select several objects, hold Shift and drag a box — here around the kitchen units.
+
+18
+00:01:25,000 --> 00:01:28,600
+Shift+click adds or removes single objects. Ctrl+A selects everything on this floor.
+
+19
+00:01:28,700 --> 00:01:32,500
+Now Properties lists the selection and can align, distribute, rotate or group it.
+
+20
+00:01:32,600 --> 00:01:38,900
+Ctrl+C and Ctrl+V copy and paste. Pasted on another floor, objects keep their exact position.
+
+21
+00:01:39,000 --> 00:01:45,600
+The Objects tab lists everything in the plan. Search it, and click an entry to select that object.
+
+22
+00:01:45,700 --> 00:01:49,950
+Each row also has buttons to hide that object in 3D, lock it in place, or delete it.
+
+23
+00:01:51,717 --> 00:01:55,517
+Prefabs are ready-made rooms and groups: garages, kitchens, bathrooms, bedrooms, balconies…
+
+24
+00:01:55,617 --> 00:02:00,017
+Tick With walls, doors & windows to get the room's shell too — or untick it to place just the furniture.
+
+25
+00:02:00,117 --> 00:02:05,367
+Drag one onto the plan — here a Home office.
+
+26
+00:02:05,467 --> 00:02:13,317
+A prefab is placed as a group: one click selects it all to move or turn. Alt+click picks a single piece.
+
+27
+00:02:14,617 --> 00:02:19,117
+Select a wall to change it: thickness, height, and wall material.
+
+28
+00:02:19,217 --> 00:02:22,217
+Paint the whole wall, or just its outside or inside face…
+
+29
+00:02:22,317 --> 00:02:28,967
+…then pick a material: plaster, brick, stone, wood, concrete, tiles, siding…
+
+30
+00:02:29,067 --> 00:02:35,167
+Materials show as hatching on the plan, and as real textures in 3D.
+
+31
+00:02:35,267 --> 00:02:40,367
+Tidy up fixes small gaps for you: Fit doors & windows on this floor, or Adjust whole house — every floor, from the ground up.
+
+32
+00:02:40,467 --> 00:02:48,617
+Fill garden (G) lays lawn, gravel or paving: click inside a fenced area, or drag a rectangle.
+
+33
+00:02:48,717 --> 00:02:51,317
+Its material is chosen in Properties, just like a floor.
+
+34
+00:02:51,467 --> 00:02:56,483
+Open the 3D view again. A few more tools live up here.
+
+35
+00:02:56,617 --> 00:03:01,883
+This floor shows the floor you are designing; Whole house shows every storey at its real height.
+
+36
+00:03:02,017 --> 00:03:09,883
+Exploded pulls the floors apart, so you can look into every level at once.
+
+37
+00:03:10,017 --> 00:03:20,417
+Click an object in 3D to select it — here the roof — then Hide selected or make it See-through.
+
+38
+00:03:20,550 --> 00:03:26,017
+Show all brings everything back. Paint faces paints single wall faces with a material.
+
+39
+00:03:26,150 --> 00:03:36,817
+The ground menu sets the surroundings: lawn, trees, a street, paving or gravel.
+
+40
+00:03:38,633 --> 00:03:44,533
+The Settings button (bottom left) switches between light and dark, and between metric and imperial units.
+
+41
+00:03:44,633 --> 00:03:48,833
+Imperial shows feet and inches. You can type lengths like 10' 6".
+
+42
+00:03:48,933 --> 00:03:54,033
+It also sets whether new stairs start or end at the height in the Height bar.
+
+43
+00:03:54,133 --> 00:03:56,533
+The File menu holds more than Save and Open.
+
+44
+00:03:56,633 --> 00:04:00,633
+3D simulator saves a stand-alone web page of the house: anyone can orbit it or walk through the rooms.
+
+45
+00:04:00,733 --> 00:04:05,633
+Export for AI writes the whole house — rooms, walls, materials, every measurement — with a ready-made prompt for AI image tools.
+
+46
+00:04:05,733 --> 00:04:09,533
+And the Wizard is never final: after building, ✎ Change answers takes you back to adjust and rebuild.
+

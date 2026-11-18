@@ -7,5 +7,3 @@ desktop.ini
 .DS_Store
 # Cloudflare's local cache (made by wrangler)
 .wrangler/
-# tutorial videos (95 MB, not used by the app)
-tutorial-videos/

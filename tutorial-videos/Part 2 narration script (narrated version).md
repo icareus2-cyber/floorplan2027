@@ -1,0 +1,100 @@
+# Floor Plan 2027 — Part 2: Beyond the Basics — narration script
+
+The narration of the video, with the time each sentence is spoken.
+
+- **00:21** — In this video we work on the sample two-storey family house.
+- **00:25** — To get the same house, open Demo, choose it, and click Keep this house.
+- **00:29** — Every floor of the house has its own tab at the top of the screen.
+- **00:33** — The plan always shows and edits one floor at a time: the one whose tab is highlighted.
+- **00:38** — Click the Upper floor tab.
+- **00:40** — Now we see the bedrooms and the bathroom upstairs.
+- **00:43** — The walls of the other floors are drawn as faint dashed lines, so you can line up walls between storeys.
+- **00:50** — The Other floors switch in the toolbar turns those dashed outlines off,
+- **00:54** — and on again.
+- **00:55** — The small dashed tabs between the floors, such as plus one point five and plus two point five, add a split level: a floor halfway between two storeys, for example a landing or a mezzanine.
+- **01:08** — With nothing selected, the Plan settings on the right have buttons to add a whole new upper floor or a basement.
+- **01:14** — Here you also set each floor's name and wall height.
+- **01:17** — The Height bar sets the working height.
+- **01:19** — New walls, stairs, balconies and roofs are placed at the height you choose here, so a roof, for example, can sit exactly on top of the walls.
+- **01:28** — Let's go back to the ground floor.
+- **01:31** — For detailed work, zoom in first: scroll the mouse wheel over the part of the plan you want to see.
+- **01:37** — Click an object to select it.
+- **01:39** — Here, the sofa in the living room.
+- **01:41** — In Properties, Position X and Y place the object exactly, in metres from the top left of the plan.
+- **01:48** — Z lifts it off the floor, for a shelf or a wall cupboard, for example.
+- **01:52** — Below that, Size sets its length, width and height.
+- **01:55** — The arrow keys nudge the selected object one centimetre at a time.
+- **02:00** — Hold Shift, and each press moves it ten centimetres.
+- **02:03** — Watch the X value change as I press Shift and the right arrow.
+- **02:07** — Press H to flip an object, like a mirror image.
+- **02:10** — Press it again to flip it back.
+- **02:12** — The orientation buttons in Properties turn it to any multiple of forty-five degrees.
+- **02:18** — The Dimensions button shows the measurements of the walls and rooms right on the plan.
+- **02:23** — For your own measuring lines, use the Dimension icons in the Walls and structure category, with or without a label.
+- **02:31** — Snap keeps objects on the grid as you drag them.
+- **02:34** — Hold the Alt key while dragging to place something freely.
+- **02:38** — The grid size itself is set in Plan settings.
+- **02:41** — Align fits doors and windows neatly into walls, and joins the ends of walls together.
+- **02:46** — Leave both switched on unless you need to place something by hand.
+- **02:50** — To select several objects at once, hold Shift and drag a box around them.
+- **02:55** — Here, around the kitchen units.
+- **02:57** — Shift and click adds or removes single objects from the selection.
+- **03:01** — Control A selects everything on the current floor.
+- **03:04** — Properties now lists everything that is selected.
+- **03:07** — From here you can align the objects to each other, spread them out evenly, rotate them as a group, or group them, so they always move together.
+- **03:16** — Control C copies the selection and Control V pastes it.
+- **03:20** — A useful trick: paste on another floor, and the objects keep exactly the same position, ideal for walls that must line up between storeys.
+- **03:30** — The Objects tab on the left lists everything in the plan, sorted by type.
+- **03:34** — You can search it.
+- **03:35** — Let's type car,
+- **03:37** — and click the entry to select the car on the plan.
+- **03:40** — Each row also has buttons to hide that object in 3D, lock it in place so it can't be moved by accident, or delete it.
+- **03:49** — Prefabs are ready-made rooms and groups of objects.
+- **03:52** — Click the Prefab tab.
+- **03:54** — There are garages, kitchens, dining rooms, bathrooms, living rooms, bedrooms, a home office and several balconies, each with its size and number of objects.
+- **04:04** — Tick With walls, doors and windows to get the room's walls as well.
+- **04:08** — Untick it to place just the furniture, for example inside a room you have already drawn.
+- **04:14** — Drag a prefab onto the plan, just like an icon.
+- **04:17** — Here, a home office.
+- **04:19** — A prefab is placed as a group: one click selects the whole thing, so you can move it or turn it in one go.
+- **04:25** — To pick out a single piece, hold Alt while you click.
+- **04:32** — Let's zoom in on the front of the house, and select a wall.
+- **04:35** — In Properties you can change the wall's thickness and height, and its material.
+- **04:40** — First choose what to paint: the whole wall, only its outside face, or only its inside face.
+- **04:46** — That way a wall can be brick outside and plaster inside.
+- **04:50** — Then pick a material: plaster, brick, stone, wood, concrete, tiles, siding and more.
+- **04:55** — Let's give the outside face brick.
+- **04:58** — Materials are shown as hatching on the plan, and as real textures in the 3D view.
+- **05:05** — If walls don't quite meet, or a door sits slightly outside its wall, use Tidy up.
+- **05:10** — Fit doors and windows tidies the current floor: every door and window is fitted into its wall, and gaps between wall ends are closed.
+- **05:18** — Adjust whole house does this for every floor from the ground up, and also lines up walls, slabs and stairs between storeys.
+- **05:26** — Fill garden, or the G key, lays lawn, gravel or paving outdoors.
+- **05:31** — Click inside an area enclosed by walls, fences or hedges, or drag a rectangle, like this.
+- **05:37** — Its material is chosen in Properties, just like a floor.
+- **05:41** — Open the 3D view again.
+- **05:43** — There are more tools in its toolbar.
+- **05:45** — This floor shows only the floor you are designing, and the ones below it.
+- **05:50** — Whole house shows every storey at its real height.
+- **05:53** — Exploded pulls the floors apart, so you can look into every level at once.
+- **05:59** — Click an object in 3D to select it.
+- **06:02** — Here, the roof.
+- **06:03** — Then click Hide selected.
+- **06:05** — With the roof hidden, we can look down into the upstairs rooms.
+- **06:08** — See-through would make it transparent instead.
+- **06:11** — Show all brings everything back.
+- **06:13** — Paint faces lets you click a single side of a wall in 3D and give it its own material.
+- **06:19** — The ground menu sets the surroundings: plain, lawn, trees, a street, paving or gravel.
+- **06:24** — Let's choose a street with trees.
+- **06:26** — Close 3D takes us back to the plan.
+- **06:29** — The Settings button is the small gear at the bottom left.
+- **06:33** — Appearance switches the panels between light and dark, or follows your computer's setting.
+- **06:38** — Units switch between metric and imperial.
+- **06:41** — Let's try imperial.
+- **06:42** — Now lengths are shown in feet and inches, and you can type them that way too, such as ten foot six.
+- **06:49** — The last setting decides whether new stairs start, or end, at the height chosen in the Height bar.
+- **06:56** — Finally, the File menu has more than Save and Open.
+- **06:59** — 3D simulator saves a stand-alone web page of your house.
+- **07:03** — Anyone who opens it can orbit around the house, or walk through the rooms at eye height, without installing anything.
+- **07:10** — Export for AI writes a full description of the house: every room, wall, door, window, material and measurement, together with a ready-made prompt you can give to an AI image tool to create a realistic picture.
+- **07:24** — And remember: a house built by the Wizard is never final.
+- **07:28** — After building, Change answers takes you back to adjust any answer and build it again.
